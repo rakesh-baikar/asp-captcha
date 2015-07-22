@@ -1,4 +1,9 @@
-asp-captcha
+google captcha with classic asp integration
 ===========
 
-asp captcha
+Easy to install google captcha code in your asp projects.
+
+need not strugle with common code.
+
+
+
